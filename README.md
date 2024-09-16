@@ -22,13 +22,21 @@ This insight can help in understanding target demographics for marketing strateg
    - For each AeroFit treadmill product, constructed two-way contingency tables and compute all conditional and marginal probabilities along with their insights/impact on the business.
 
 Example :
+
 ----------------------------------------
+
 Product |KP281	|KP481	|KP781	|All  |
+
 ---------------------------------------|
-Gender				                     |
+
+Gender				                         |
+
 Female |	50.0	|48.33	|17.5	   |42.22|
+
 ---------------------------------------|
+
 Male	 | 50.0	|51.67	|82.5	   |57.78|
+
 ----------------------------------------
 
 Insights- Above table is the conditional probability of the gender given products inventory in percentage
