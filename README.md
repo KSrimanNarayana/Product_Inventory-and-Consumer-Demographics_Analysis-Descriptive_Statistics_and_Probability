@@ -14,36 +14,17 @@ For the KP481 treadmill:
 
 This insight can help in understanding target demographics for marketing strategies and optimizing stock levels based on gender preferences.
 
-# To identify the characteristics of the target audience for each type of treadmill offered by the company, to provide a better recommendation of the treadmills to the new customers.
+### To identify the characteristics of the target audience for each type of treadmill offered by the company, to provide a better recommendation of the treadmills to the new customers.
 
-# Key Features:
+### Key Features:
 
    - Performed descriptive analytics to create a customer profile for each AeroFit treadmill product by developing appropriate tables and charts.
    - For each AeroFit treadmill product, constructed two-way contingency tables and compute all conditional and marginal probabilities along with their insights/impact on the business.
 
-Example :
+### Gender distribution
+![image](https://github.com/user-attachments/assets/27fddd3a-354e-4b20-983e-d70e574a5fc2)
 
-----------------------------------------
+### Age Group distribution
+![image](https://github.com/user-attachments/assets/b843e9f5-1609-46b2-b67f-b729bd75a669)
 
-Product |KP281	|KP481	|KP781	|All  |
 
----------------------------------------|
-
-Gender				                         |
-
-Female |	50.0	|48.33	|17.5	   |42.22|
-
----------------------------------------|
-
-Male	 | 50.0	|51.67	|82.5	   |57.78|
-
-----------------------------------------
-
-Insights- Above table is the conditional probability of the gender given products inventory in percentage
-
-From this table we can answer questions like out of 1000 KP481 treadmill product inventory how many females and males buy it.
-
-we can answer it by
-1) 1000*48.33/100 = 483 females will buy KP481 treadmill out of 1000 KP481 treadmills.
-
-2) 1000 *51.67/100 = 517 males will buy KP481 treadmill out of 100 KP481 treadmills.
