@@ -27,4 +27,8 @@ This insight can help in understanding target demographics for marketing strateg
 ### Age Group distribution
 ![image](https://github.com/user-attachments/assets/b843e9f5-1609-46b2-b67f-b729bd75a669)
 
+### Product Inventory Sales Distribution
+![image](https://github.com/user-attachments/assets/24ad8082-9b72-4273-a44e-4b3ff608060e)
+
+
 
